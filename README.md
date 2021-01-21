@@ -1,2 +1,3 @@
-# high_dim_data
-Data sets for high dimensional economics
+# Data files for High Dimensional Economics
+
+This repository collects data sets for the textbook High Dimensional Economics
